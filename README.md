@@ -1,4 +1,4 @@
-![](cover photo.jpg)
+![](https://github.com/amesh-jayaweera/amesh-jayaweera/blob/main/cover%20photo.jpg)
 
 ## Hey there, I'm Amesh Jayaweera. 👋
 [![Repos Badge](https://badges.pufler.dev/repos/amesh-jayaweera)](https://github.com/amesh-jayaweera) [![Years Badge](https://badges.pufler.dev/years/amesh-jayaweera)](https://github.com/amesh-jayaweera) [![Commits Badge](https://badges.pufler.dev/commits/monthly/amesh-jayaweera)](https://github.com/amesh-jayaweera)
