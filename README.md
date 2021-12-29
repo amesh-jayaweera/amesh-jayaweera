@@ -5,7 +5,7 @@
 
 ### I'm a Software Engineer and AI/Data Science Enthusiast! 
 
-I am from Sri Lanka 🇱🇰. I’m 23 years old, a motivated individual, experienced in working with industrial development technologies, platforms and projects.
+I am from Sri Lanka 🇱🇰. I’m 24 years old, a motivated individual, experienced in working with industrial development technologies, platforms and projects.
 
 Furthermore, I’m passionate to explore the knowledge and improve my skills level best in Artificial Intelligence including Neural Network, Machine Learning, Image processing and Natural Language Processing.
 
